@@ -21,7 +21,7 @@ Loop 30
 
    Send, {Ctrl Down}w{Ctrl Up}
    Sleep, 120000
-   Run, Chrome.exe //*link do storys*//
+   Run, Chrome.exe //https://instagram.com/stories/eaii.viictor/2999673500588467779?igshid=MDJmNzVkMjY=//
    Sleep, 8000
    Send, {Tab Down} {Tab Up}
    Sleep, 500
